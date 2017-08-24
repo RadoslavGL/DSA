@@ -16,6 +16,7 @@ namespace Task4_Permutations
             if (index >= arr.Length)
             {
                 sb.AppendLine(string.Format("{{ {0} }}", string.Join(" ", arr)));
+                return;
             }
 
             for (int i = min; i <= max; i++)

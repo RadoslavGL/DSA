@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2 - CombinationWithDupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4-Permutations", "Task4-Permutations\Task4-Permutations.csproj", "{4D6E61FC-F4C2-4A78-AA71-645D0EDF1F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5-Variations", "Task5-Variations\Task5-Variations.csproj", "{F1132509-3764-417E-BEBA-9705BDA01F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6-SubsetsOfKStrings", "Task6-SubsetsOfKStrings\Task6-SubsetsOfKStrings.csproj", "{D65282CA-3C1E-4F51-ACE1-BEC64E2F78EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{4D6E61FC-F4C2-4A78-AA71-645D0EDF1F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6E61FC-F4C2-4A78-AA71-645D0EDF1F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6E61FC-F4C2-4A78-AA71-645D0EDF1F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1132509-3764-417E-BEBA-9705BDA01F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1132509-3764-417E-BEBA-9705BDA01F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1132509-3764-417E-BEBA-9705BDA01F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1132509-3764-417E-BEBA-9705BDA01F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65282CA-3C1E-4F51-ACE1-BEC64E2F78EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65282CA-3C1E-4F51-ACE1-BEC64E2F78EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65282CA-3C1E-4F51-ACE1-BEC64E2F78EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65282CA-3C1E-4F51-ACE1-BEC64E2F78EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
