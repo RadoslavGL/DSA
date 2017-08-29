@@ -9,12 +9,14 @@ namespace Swapping
     public class Node
     {
         public int Value { get; private set; }
+
         public Node Left { get; private set; }
         public Node Right { get; private set; }
 
         public Node(Node end, int x)
         {
             this.Value = x;
+
             this.Left = end;
             this.Right = null;
 
@@ -48,7 +50,7 @@ namespace Swapping
                 return;
             }
 
-            l.Left = r;
+            l.Right= r;
             r.Left = l;
 
         }
