@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B55183B1-5B22-42B0-B8FC-0B23262C18BF}</ProjectGuid>
+    <ProjectGuid>{EE788F3C-1B51-4BE9-9B6D-933028C0C417}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Conference</RootNamespace>
-    <AssemblyName>Conference</AssemblyName>
+    <RootNamespace>Towns</RootNamespace>
+    <AssemblyName>Towns</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
